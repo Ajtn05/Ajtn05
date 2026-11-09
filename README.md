@@ -1,6 +1,6 @@
 # Hi, I'm Aldrin 👋
 
-I liked computer class a little too much in elementary school. Now I study CS at Ateneo de Manila, and somehow every minor inconvenience looks like a Mac app waiting to happen.
+I liked computer class a little too much in elementary school. Now I study CS at Ateneo de Manila, and make things on an "I lowkey need this rn basis"
 
 ## A few things I’ve made
 
