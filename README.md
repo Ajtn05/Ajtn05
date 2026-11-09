@@ -1,5 +1,10 @@
 # Hi, I'm Aldrin 👋
 
-I liked computer class a little too much in elementary school and ended up here.
+I liked computer class a little too much in elementary school. Now I study CS at Ateneo de Manila, and somehow every minor inconvenience looks like a Mac app waiting to happen.
 
-I study CS at Ateneo de Manila and like making little tools I can use myself. I made [Tala](https://github.com/Ajtn05/Tala) to transcribe audio locally and [Word Snip](https://github.com/Ajtn05/Word-Snip) to copy text off my screen.
+## A few things I’ve made
+
+- [Tala](https://github.com/Ajtn05/Tala) turns audio into text right on your machine.
+- [Word Snip](https://github.com/Ajtn05/Word-Snip) copies text you can see but can’t highlight.
+- [Rack](https://github.com/Ajtn05/Rack) puts a little hi-fi stack on your Mac, knobs and all.
+- [Takeoff](https://github.com/Ajtn05/Takeoff) turns your browser into a drone simulator and your phone into a controller.
